@@ -1,0 +1,23 @@
+.hero{
+    margin: 0px 120px ;
+    margin-top: 235px;
+}
+
+.hero-text{
+    color: #fff;
+    font-size: 100px;
+    font-weight:400;
+    line-height: 130px;
+}
+
+.hero-explore{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    width: fit-content;
+    margin-top: 60px;
+    padding: 5px 7px;
+    border-radius: 60px;
+    background-color: white;
+    cursor: pointer;
+}
